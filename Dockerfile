@@ -1,4 +1,4 @@
-FROM node:7.5
+FROM node:alpine
 
 # 设置个时区
 ENV TZ=Asia/Shanghai
